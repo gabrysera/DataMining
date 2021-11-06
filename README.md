@@ -1,2 +1,2 @@
 # DataMining
-Classification for stroke cases using 3 different classifiers
+Classification for stroke deseases cases using 3 different classifiers
